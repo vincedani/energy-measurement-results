@@ -1,0 +1,11 @@
+Name,Length,Voltage,Current,Power
+21_03_26_303836_temperature_from_humidity_cpp     ,      0.098 s,      5.114 V,    284.448 mA,   1464.111 mW,      0.144 Ws
+21_03_27_192485_temperature_from_humidity_cpp     ,      0.097 s,      5.121 V,    260.779 mA,   1341.661 mW,      0.130 Ws
+21_03_28_080063_temperature_from_humidity_cpp     ,      0.097 s,      5.117 V,    264.480 mA,   1448.339 mW,      0.140 Ws
+21_03_28_968372_temperature_from_humidity_cpp     ,      0.098 s,      5.122 V,    259.664 mA,   1338.072 mW,      0.132 Ws
+21_03_29_856482_temperature_from_humidity_cpp     ,      0.097 s,      5.121 V,    261.058 mA,   1341.835 mW,      0.130 Ws
+21_03_30_745482_temperature_from_humidity_cpp     ,      0.097 s,      5.120 V,    260.547 mA,   1332.265 mW,      0.129 Ws
+21_03_31_633706_temperature_from_humidity_cpp     ,      0.097 s,      5.122 V,    261.266 mA,   1337.956 mW,      0.130 Ws
+21_03_32_521013_temperature_from_humidity_cpp     ,      0.098 s,      5.120 V,    261.194 mA,   1332.544 mW,      0.131 Ws
+21_03_33_410215_temperature_from_humidity_cpp     ,      0.097 s,      5.122 V,    259.509 mA,   1341.301 mW,      0.130 Ws
+21_03_34_298150_temperature_from_humidity_cpp     ,      0.097 s,      5.120 V,    260.606 mA,   1349.129 mW,      0.131 Ws

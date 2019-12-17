@@ -1,0 +1,11 @@
+Name,Length,Voltage,Current,Power
+21_03_35_461318_query_record_sqlite3_cpp          ,      0.097 s,      5.119 V,    265.883 mA,   1338.351 mW,      0.130 Ws
+21_03_35_940638_query_record_sqlite3_cpp          ,      0.101 s,      5.120 V,    262.478 mA,   1345.477 mW,      0.137 Ws
+21_03_36_417088_query_record_sqlite3_cpp          ,      0.097 s,      5.120 V,    260.266 mA,   1342.276 mW,      0.130 Ws
+21_03_36_893797_query_record_sqlite3_cpp          ,      0.097 s,      5.120 V,    259.704 mA,   1331.382 mW,      0.129 Ws
+21_03_37_374051_query_record_sqlite3_cpp          ,      0.097 s,      5.120 V,    260.801 mA,   1354.425 mW,      0.131 Ws
+21_03_37_849719_query_record_sqlite3_cpp          ,      0.097 s,      5.119 V,    260.686 mA,   1346.086 mW,      0.130 Ws
+21_03_38_328155_query_record_sqlite3_cpp          ,      0.097 s,      5.120 V,    259.970 mA,   1331.870 mW,      0.129 Ws
+21_03_38_806057_query_record_sqlite3_cpp          ,      0.097 s,      5.119 V,    264.197 mA,   1368.339 mW,      0.133 Ws
+21_03_39_284274_query_record_sqlite3_cpp          ,      0.097 s,      5.120 V,    261.837 mA,   1349.988 mW,      0.131 Ws
+21_03_39_770117_query_record_sqlite3_cpp          ,      0.097 s,      5.120 V,    261.821 mA,   1352.915 mW,      0.131 Ws

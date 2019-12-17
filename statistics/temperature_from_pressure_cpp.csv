@@ -1,0 +1,11 @@
+Name,Length,Voltage,Current,Power
+21_03_26_081830_temperature_from_pressure_cpp     ,      0.098 s,      5.115 V,    294.470 mA,   1500.952 mW,      0.148 Ws
+21_03_26_969541_temperature_from_pressure_cpp     ,      0.097 s,      5.120 V,    260.551 mA,   1338.072 mW,      0.130 Ws
+21_03_27_858657_temperature_from_pressure_cpp     ,      0.099 s,      5.116 V,    279.498 mA,   1455.192 mW,      0.144 Ws
+21_03_28_746094_temperature_from_pressure_cpp     ,      0.097 s,      5.120 V,    262.096 mA,   1338.258 mW,      0.130 Ws
+21_03_29_635085_temperature_from_pressure_cpp     ,      0.097 s,      5.120 V,    258.909 mA,   1334.402 mW,      0.129 Ws
+21_03_30_523309_temperature_from_pressure_cpp     ,      0.096 s,      5.119 V,    260.701 mA,   1333.829 mW,      0.128 Ws
+21_03_31_411841_temperature_from_pressure_cpp     ,      0.099 s,      5.120 V,    260.794 mA,   1329.617 mW,      0.131 Ws
+21_03_32_299938_temperature_from_pressure_cpp     ,      0.097 s,      5.123 V,    259.503 mA,   1329.919 mW,      0.129 Ws
+21_03_33_188180_temperature_from_pressure_cpp     ,      0.097 s,      5.122 V,    260.446 mA,   1339.698 mW,      0.130 Ws
+21_03_34_075859_temperature_from_pressure_cpp     ,      0.098 s,      5.120 V,    259.900 mA,   1333.751 mW,      0.131 Ws
